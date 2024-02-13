@@ -58,4 +58,13 @@ Special Sets:
 
 ## Functions
 
+A fucnction assigns every unqiue input to an output.
+
+Functions have both a domain and range the set of values including in their inputs and outputs respectivly.
+
+A function is surjective when every value of its codomain is a member of its range.
+
+A function is injective if it is one to one, where each value of the domain maps to a unique value of the range.
+
+A bijection is a function that is both injective and surjective.
 
