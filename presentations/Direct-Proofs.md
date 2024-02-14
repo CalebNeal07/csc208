@@ -21,7 +21,6 @@ $$a^2+b^2=c^2$$
 ---
 
 This is a direct proof because it is a series of logical statements.\
-\
 
 In essence, proofs are implications ($P \to Q$) where we assume P is true and we deduce Q from P. In the Pythagorean therorem example all we had to assume was that the area of a square is the length of its sides squared and that the area of a triangle is one half times its base and height.
 
@@ -30,6 +29,6 @@ In essence, proofs are implications ($P \to Q$) where we assume P is true and we
 These things we assume to be true are called axioms and they can be as simple as the ones we used above or as complex as the example below.
 
 Axiom of the Free Will Theorem
-![](../resources/free-will.ong)
+![](../resources/free-will.png)
 
 A proof is only as strong as its axioms and so Conway and Kochen later revised their free will theorem to reduce the first axiom from the propogation of all information to the propogation of measurements.
