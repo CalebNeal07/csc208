@@ -28,8 +28,10 @@ In essence, proofs are implications ($P \to Q$) where we assume P is true and we
 
 These things we assume to be true are called axioms and they can be as simple as the ones we used above or as complex as the example below.
 
-Axiom of the Free Will Theorem
+Axioms of the Free Will Theorem
 1. Fin: There is a maximal speed for propagation of information (not necessarily the speed of light). This assumption rests upon causality.
 2. Spin: The squared spin component of certain elementary particles of spin one, taken in three orthogonal directions, will be a permutation of (1,1,0).
 3. Twin: It is possible to "entangle" two elementary particles and separate them by a significant distance, so that they have the same squared spin results if measured in parallel directions. This is a consequence of quantum entanglement, but full entanglement is not necessary for the twin axiom to hold (entanglement is sufficient but not necessary).
+
 A proof is only as strong as its axioms and so Conway and Kochen later revised their free will theorem to reduce the first axiom from the propogation of all information to the propogation of measurements.
+
