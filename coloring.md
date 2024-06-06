@@ -15,7 +15,13 @@
 
 ### Proof of the Four Color Theorem
 
+The book doesn't go deep into the proof due to its complexity. I was planning on demonstrating the proof (which can be found [here](https://github.com/coq-community/fourcolor)), but I won't. 
 
+#### Example
+![image](https://github.com/CalebNeal07/csc208/assets/105329924/9ba909e1-bc37-45d9-a320-1cef36a745fb)
+
+
+[Next](https://github.com/bananajoeo7/csc208/blob/main/presentations/Chapter_4/Chapter_4.4_Presentation.md)
 ## Sources
  - https://en.wikipedia.org/wiki/Graph_coloring
  - https://github.com/coq-community/fourcolor
