@@ -15,7 +15,7 @@
 
 ### Proof of the Four Color Theorem
 
-The book doesn't go deep into the proof due to its complexity. I was planning on demonstrating the proof (which can be found [here](https://github.com/coq-community/fourcolor)), but I won't. 
+The book doesn't go deep into the proof due to its complexity. I was planning on demonstrating the proof (which can be found [here](https://github.com/coq-community/fourcolor)) using some proof assitance software, but it proved to be too unwieldy to actually present. The book says that the proof relies on reducing the possible configurations of graphs to a set of 633, and although this is true the computer actually has to check over a billion situations to properly verify the proof not just the 633.
 
 #### Example
 ![image](https://github.com/CalebNeal07/csc208/assets/105329924/9ba909e1-bc37-45d9-a320-1cef36a745fb)
